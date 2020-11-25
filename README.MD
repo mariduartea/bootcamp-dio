@@ -1,0 +1,1 @@
+A recriação da página inicial do Instagram foi criada como projeto complementar no bootcamp da Digital Inovation One. Foi utilizado apenas o HTML e o CSS no intuito de ser um preparatório para níveis mais altos de conhecimento. 
